@@ -1,0 +1,237 @@
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px
+}
+.smalltext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small; background-color: #FFFFFF;
+  color: #003333
+}
+.tblbulletin {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  background-color: #ECEFF2;
+  color: #000000;
+  border: 1px #000000;
+  border-style: solid
+}
+.bulletin {
+  color: #48599C;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px
+}
+.row2nd {
+  background-color: #DCDEF4
+}
+.tdlogin {
+  background-color: #262626
+}
+.logintext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  color: #FFFFFF;
+  background-color: #262626
+}
+.loginkplaylist {
+  color: #BBBBBB;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px
+}
+.statistics {
+  color: #000000;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8px
+}
+a:hover.hot {
+  color: #EF610C;
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: normal
+}
+a:hover.hotnb {
+  color: #EF610C;
+  text-decoration: underline;  
+  font-style: normal
+}
+.warning {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal
+}
+.notice {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal;
+  color: #000000
+}
+.fatbuttom {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px #000000;
+  border-style: solid
+}
+.fatfield {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  background-color: #DCDEF4;
+  border: 1px #000000;
+  border-style: solid
+}
+.logonbuttom {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  background-color: #000000;
+  border: 1px #CCCCCC solid;
+  color: #FFFFFF
+}
+.wtext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal;
+  color: #000066
+}
+.text {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: x-small;
+  font-style: normal;
+  color: #FFFFFF
+}
+.dir {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  color: #030670
+}
+.fdet {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal;
+  color: #333333
+}
+.finfo {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  color: #898888
+}
+.ainfo {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: #333333
+}
+a {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal;
+  color: #000066;
+  text-decoration: none
+}
+.file, .newfile {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  color: #000066
+}
+.filemarked {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small;
+  font-style: normal;
+  color: #EF6100
+}
+.curdir {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: x-small;
+  color: #000000;
+  text-decoration: none
+}
+.userfield {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: xx-small
+}
+.boxhotlist {
+  color: #BBBBBB;
+  background-color: navy;
+  border-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 1px
+}
+.box {
+  color: #BBBBBB;
+  background-color: #527CAC;
+  border-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 1px
+}
+.tdborder {
+  border-color: black black black #666666;
+  border-style: solid;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-left-width: 0px
+}
+.importnant {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  color: #000066
+}
+.dirheadline {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9pt;
+  font-style: normal;
+  font-weight: bold;
+  color: #000066
+}
+.slash {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  color: #000066   
+}
+.importnantlink {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  color: #0000FF
+}
+.header {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  color: #000000
+}
+.headermarked {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  font-style: normal;
+  color: #EF6100
+}
+.bbox {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: x-small;
+  font-style: normal;
+  color: #FFFFFF
+}
+.bboxtable {
+  background-color: #ECEFF2;
+}
+.file img, .dir img, input[type="checkbox"] { 
+  height: 32px;
+  width: 32px;
+}
+a span.file {
+  display: none;
+}
