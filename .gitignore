@@ -1,3 +1,4 @@
 # kplaylist .gitignore file
 kpconfig.php
 cover/**
+!cover/.gitkeep
