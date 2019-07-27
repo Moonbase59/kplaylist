@@ -4,7 +4,7 @@
 
 This version was created from fragments of the (now defunct) kplaylist.net site and version 1.8.512 which can be downloaded from http://kplaylist.com/.
 
-In addition to what 1.8.512 had to offer, **version 1.8.712** features:
+In addition to what 1.8.512 had to offer, **version 1.8.713** features:
 
 * inclusion of "getid3" v1.9.17 for improved features & security
 * support for FLAC, OGG and MP3 audio
