@@ -20,6 +20,10 @@ In addition to what 1.8.512 had to offer, **version 1.8.713** features:
 
 ---
 
+**Note:** You do _not_ need to modify the `index.php` file itself. Just create a file `kpconfig.php` and put all your personal configurations in there. Use `example.kpconfig.php` as a starting point.
+
+---
+
 The auto-update feature can easily be used via crontab like this:
 ```
 0 9 * * * /usr/bin/lynx -dump "http://127.0.0.1:8080/kplaylist/index.php?update=5000&user=autooperate"
