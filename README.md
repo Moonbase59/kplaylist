@@ -33,7 +33,7 @@ The above means: Do an auto-update every morning at 9:00 a.m., assuming that kPl
 
 ---
 
-The "radio" (streaming) feature can most easily be used with my `ices 0.4.5` streaming client, using an ices shell script like the following:
+The "radio" (streaming) feature can most easily be used with my [ices0](https://github.com/Moonbase59/ices0) streaming client, using an ices shell script like the following:
 
 ```bash
 #!/bin/sh
