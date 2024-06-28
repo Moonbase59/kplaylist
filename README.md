@@ -1,5 +1,7 @@
 # kPlaylist
 
+**If you like what you got, please consider to [![Donate with Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PBPR63362LDEU). Thank you! ❤️**
+
 **kPlaylist** is a music database that you manage via the web. With kPlaylist you can stream your music (ogg, mp3, wav, wma, etc.), you can upload, make playlists, share, search, download and a lot more.
 
 This version was created from fragments of the (now defunct) kplaylist.net site and version 1.8.512 which can be downloaded from http://kplaylist.com/.
